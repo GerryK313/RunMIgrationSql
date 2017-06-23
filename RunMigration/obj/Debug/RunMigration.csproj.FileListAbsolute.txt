@@ -1,0 +1,9 @@
+C:\Dev\Other Projects\Source\RunMigration\bin\Debug\RunMigration.exe.config
+C:\Dev\Other Projects\Source\RunMigration\bin\Debug\RunMigration.exe
+C:\Dev\Other Projects\Source\RunMigration\bin\Debug\RunMigration.pdb
+C:\Dev\Other Projects\Source\RunMigration\bin\Debug\EntityFramework.dll
+C:\Dev\Other Projects\Source\RunMigration\bin\Debug\EntityFramework.SqlServer.dll
+C:\Dev\Other Projects\Source\RunMigration\bin\Debug\EntityFramework.xml
+C:\Dev\Other Projects\Source\RunMigration\bin\Debug\EntityFramework.SqlServer.xml
+C:\Dev\Other Projects\Source\RunMigration\obj\Debug\RunMigration.exe
+C:\Dev\Other Projects\Source\RunMigration\obj\Debug\RunMigration.pdb
